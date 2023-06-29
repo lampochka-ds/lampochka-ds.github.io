@@ -89,6 +89,11 @@ img.main_img {
 	padding: 30px;
 }
 
+.content a {
+    color: black;
+}
+
+
 .lz-project {
 	border: 1px solid black;
 	padding: 30px;
